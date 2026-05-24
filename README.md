@@ -1,5 +1,10 @@
 # Hi, I'm Sukhpreet Singh! 👋
-### MERN Stack Developer | Fitness Lover | Junior Software Engineer
+
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=500&lines=MERN+Stack+Developer;Fitness+Lover;Software+Engineer" alt="Typing SVG" />
+  </a>
+</p>
 
 I build real-life, scalable web applications and manage live software projects from frontend to deployment. Currently gaining practical enterprise experience at GoCoder Inventure.
 
@@ -21,11 +26,5 @@ I build real-life, scalable web applications and manage live software projects f
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" height="160" alt="Sukhpreet's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" height="160" alt="Sukhpreet's Languages" />
-</p>
-
 ### 📬 Let's Connect
-[LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio](YOUR_PORTFOLIO_URL) | sukhpreetsingh1689@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sukhpreet-singh-037a70300/) | [Portfolio](https://portfolio-eight-nu-1tpsivfamm.vercel.app/) | sukhpreetsingh1689@gmail.com
